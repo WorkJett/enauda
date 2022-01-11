@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/enauda/static/js/main.0122ff1d.js",
+    "main.js": "/enauda/static/js/main.5038350c.js",
     "static/media/greatings.png": "/enauda/static/media/greatings.1848e0c25fa031b9ed77.png",
     "static/media/icon_pic_plus.svg": "/enauda/static/media/icon_pic_plus.3c61740121d2b91dd0d8066ba8b5fba5.svg",
     "static/media/icon_share.svg": "/enauda/static/media/icon_share.aaf1d050f3df997259cfffd55810b367.svg",
@@ -15,9 +15,9 @@
     "static/media/close.svg": "/enauda/static/media/close.4166450b4216520efd07189667b7a2e8.svg",
     "index.html": "/enauda/index.html",
     "static/media/icon_plus.svg": "/enauda/static/media/icon_plus.fbb6ac984ad615eb83b6b86aac749715.svg",
-    "main.0122ff1d.js.map": "/enauda/static/js/main.0122ff1d.js.map"
+    "main.5038350c.js.map": "/enauda/static/js/main.5038350c.js.map"
   },
   "entrypoints": [
-    "static/js/main.0122ff1d.js"
+    "static/js/main.5038350c.js"
   ]
 }
