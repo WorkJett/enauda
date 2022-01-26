@@ -1,23 +1,38 @@
 {
   "files": {
-    "main.js": "/enauda/static/js/main.5038350c.js",
-    "static/media/greatings.png": "/enauda/static/media/greatings.1848e0c25fa031b9ed77.png",
-    "static/media/icon_pic_plus.svg": "/enauda/static/media/icon_pic_plus.3c61740121d2b91dd0d8066ba8b5fba5.svg",
-    "static/media/icon_share.svg": "/enauda/static/media/icon_share.aaf1d050f3df997259cfffd55810b367.svg",
-    "static/media/icon_edit.svg": "/enauda/static/media/icon_edit.4b13590d7655a429dcd9bb74aa5598d9.svg",
-    "static/media/icon_squares.svg": "/enauda/static/media/icon_squares.9de137ef8a04f66cff697942d98b6ef5.svg",
-    "static/media/edit_btn.svg": "/enauda/static/media/edit_btn.16f312de5004f3c0f4afeae89ee2368e.svg",
-    "static/media/icon_logo.svg": "/enauda/static/media/icon_logo.e379ee7ab74caf547b9ec9e4e25f3156.svg",
-    "static/media/delete_btn.svg": "/enauda/static/media/delete_btn.f251332422dee62e4aa48549db2e2a00.svg",
+    "main.js": "/enauda/static/js/main.47715d0f.js",
+    "static/media/back.png": "/enauda/static/media/back.e98fb28164aced444f1e.png",
+    "static/media/pic4.jpg": "/enauda/static/media/pic4.adec8a93c1cca3a8d10f.jpg",
+    "static/media/pic8.jpg": "/enauda/static/media/pic8.eee3d2e6874dacda8da6.jpg",
+    "static/media/pic3.jpg": "/enauda/static/media/pic3.a89e5b245658382bcdd9.jpg",
+    "static/media/pic1.jpg": "/enauda/static/media/pic1.fefca506f98bcc3ab648.jpg",
+    "static/media/pic12.jpg": "/enauda/static/media/pic12.a1868272d6fd555633ec.jpg",
+    "static/media/pic2.jpg": "/enauda/static/media/pic2.b5bd4fc97c466e11f05a.jpg",
+    "static/media/pic11.jpg": "/enauda/static/media/pic11.27831e474ba5cb610517.jpg",
+    "static/media/pic7.jpg": "/enauda/static/media/pic7.6ee0871c42c1ab6e76e1.jpg",
+    "static/media/pic6.jpg": "/enauda/static/media/pic6.590bf415e4bd1089421f.jpg",
+    "static/media/ceiling.png": "/enauda/static/media/ceiling.ee5574182fb4bd18a080.png",
+    "static/media/pic9.jpg": "/enauda/static/media/pic9.3ced3c7924d2a7ca6b96.jpg",
+    "static/media/pic10.jpg": "/enauda/static/media/pic10.d8e1e606da37723710c7.jpg",
+    "static/media/pic5.jpg": "/enauda/static/media/pic5.fa1b96f29bde62630c41.jpg",
+    "static/media/tooltip_img.svg": "/enauda/static/media/tooltip_img.f97bb720cb06608b6edf789fe61cff09.svg",
+    "static/media/galery_icon.svg": "/enauda/static/media/galery_icon.e50f3cb55d082fa3085e3b382f22602e.svg",
+    "static/media/share_icon.svg": "/enauda/static/media/share_icon.b89c7a6391a7bfb690515aa1e255b764.svg",
+    "static/media/download_icon.svg": "/enauda/static/media/download_icon.c3c226ea322ed2ef61e6c51cc5a25076.svg",
     "static/media/arrow_up.svg": "/enauda/static/media/arrow_up.6434fc3f859247282158c251b2df0300.svg",
-    "static/media/icon_download.svg": "/enauda/static/media/icon_download.9a4dcb299442391ca0b29204e855038c.svg",
+    "static/media/back_icon.svg": "/enauda/static/media/back_icon.55dd785c561f0fcac2d7fc166205849f.svg",
     "static/media/arrow_down.svg": "/enauda/static/media/arrow_down.a13dd1c120074b7839c17e8e15661d89.svg",
-    "static/media/close.svg": "/enauda/static/media/close.4166450b4216520efd07189667b7a2e8.svg",
+    "static/media/tooltip_close.svg": "/enauda/static/media/tooltip_close.1c54e97864d8e07a6167197ea6681e14.svg",
+    "static/media/close_black.svg": "/enauda/static/media/close_black.4166450b4216520efd07189667b7a2e8.svg",
+    "static/media/close_white.svg": "/enauda/static/media/close_white.35c5382ff237ec5c10a6b9dcab89ec91.svg",
     "index.html": "/enauda/index.html",
-    "static/media/icon_plus.svg": "/enauda/static/media/icon_plus.fbb6ac984ad615eb83b6b86aac749715.svg",
-    "main.5038350c.js.map": "/enauda/static/js/main.5038350c.js.map"
+    "static/media/more_icon.svg": "/enauda/static/media/more_icon.a165288ea4bfc582fc8bb0e7fff6885c.svg",
+    "static/media/next_dis.svg": "/enauda/static/media/next_dis.a48dc91056413ab719589b84848fd3cc.svg",
+    "static/media/next.svg": "/enauda/static/media/next.1ce988022689f6873c9ee061eafa0e73.svg",
+    "static/media/dropdown.svg": "/enauda/static/media/dropdown.0180ddddc9103c97e6b59b39e145ad00.svg",
+    "main.47715d0f.js.map": "/enauda/static/js/main.47715d0f.js.map"
   },
   "entrypoints": [
-    "static/js/main.5038350c.js"
+    "static/js/main.47715d0f.js"
   ]
 }
