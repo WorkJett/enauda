@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/enauda/static/js/main.6755a7ff.js",
+    "main.js": "/enauda/static/js/main.2e5ff66d.js",
     "static/media/back.png": "/enauda/static/media/back.e98fb28164aced444f1e.png",
     "static/media/pic4.jpg": "/enauda/static/media/pic4.adec8a93c1cca3a8d10f.jpg",
     "static/media/pic8.jpg": "/enauda/static/media/pic8.eee3d2e6874dacda8da6.jpg",
@@ -17,13 +17,20 @@
     "static/media/pic10.jpg": "/enauda/static/media/pic10.d8e1e606da37723710c7.jpg",
     "static/media/pic5.jpg": "/enauda/static/media/pic5.fa1b96f29bde62630c41.jpg",
     "static/media/tooltip_img.svg": "/enauda/static/media/tooltip_img.f97bb720cb06608b6edf789fe61cff09.svg",
+    "static/media/mob_img_plus.svg": "/enauda/static/media/mob_img_plus.08c23766f4c92de7f995c994345b412d.svg",
     "static/media/galery_icon.svg": "/enauda/static/media/galery_icon.e50f3cb55d082fa3085e3b382f22602e.svg",
+    "static/media/mob_share_b.svg": "/enauda/static/media/mob_share_b.8d6d3ae1bdf0a7e66298750fafeaf3aa.svg",
+    "static/media/mob_share.svg": "/enauda/static/media/mob_share.b89c7a6391a7bfb690515aa1e255b764.svg",
     "static/media/share_icon.svg": "/enauda/static/media/share_icon.b89c7a6391a7bfb690515aa1e255b764.svg",
     "static/media/edit_menu.svg": "/enauda/static/media/edit_menu.3f6224399cd4e10aa95e8a14e1ca2444.svg",
+    "static/media/mob_edit_b.svg": "/enauda/static/media/mob_edit_b.215ee57343c659312a4461d5c55f8e80.svg",
+    "static/media/mob_all.svg": "/enauda/static/media/mob_all.d18cfb6990189d324ff3508a524410da.svg",
     "static/media/edit_btn.svg": "/enauda/static/media/edit_btn.16f312de5004f3c0f4afeae89ee2368e.svg",
     "static/media/delete_btn.svg": "/enauda/static/media/delete_btn.f251332422dee62e4aa48549db2e2a00.svg",
     "static/media/pic_menu.svg": "/enauda/static/media/pic_menu.53c6ffdcc386db1309eb49b67a53cc1f.svg",
+    "static/media/mob_img.svg": "/enauda/static/media/mob_img.c01b81b5329a59f59b76d6da49d6472d.svg",
     "static/media/download_icon.svg": "/enauda/static/media/download_icon.c3c226ea322ed2ef61e6c51cc5a25076.svg",
+    "static/media/mob_del_b.svg": "/enauda/static/media/mob_del_b.3b1676c07df1133ff5b98bf21448fbb4.svg",
     "static/media/remove_menu.svg": "/enauda/static/media/remove_menu.b8c6972cd26512d43416da0980182efe.svg",
     "static/media/arrow_up.svg": "/enauda/static/media/arrow_up.6434fc3f859247282158c251b2df0300.svg",
     "static/media/info_btn.svg": "/enauda/static/media/info_btn.a1949d14c61975e740f6173a7e30954e.svg",
@@ -32,14 +39,18 @@
     "static/media/tooltip_close.svg": "/enauda/static/media/tooltip_close.1c54e97864d8e07a6167197ea6681e14.svg",
     "static/media/close_black.svg": "/enauda/static/media/close_black.4166450b4216520efd07189667b7a2e8.svg",
     "static/media/close_white.svg": "/enauda/static/media/close_white.35c5382ff237ec5c10a6b9dcab89ec91.svg",
+    "static/media/mob_close.svg": "/enauda/static/media/mob_close.35c5382ff237ec5c10a6b9dcab89ec91.svg",
+    "static/media/mob_back.svg": "/enauda/static/media/mob_back.05dfc967f400a3a9ab96caf02f71ddbd.svg",
     "index.html": "/enauda/index.html",
+    "static/media/mob_more.svg": "/enauda/static/media/mob_more.c4f98cc69d118a519a5956f9f10fa715.svg",
     "static/media/more_icon.svg": "/enauda/static/media/more_icon.a165288ea4bfc582fc8bb0e7fff6885c.svg",
     "static/media/next_dis.svg": "/enauda/static/media/next_dis.a48dc91056413ab719589b84848fd3cc.svg",
     "static/media/next.svg": "/enauda/static/media/next.1ce988022689f6873c9ee061eafa0e73.svg",
+    "static/media/mob_plus.svg": "/enauda/static/media/mob_plus.5ce68b6dbd7d3cba5f7e2ba92dbf7302.svg",
     "static/media/dropdown.svg": "/enauda/static/media/dropdown.0180ddddc9103c97e6b59b39e145ad00.svg",
-    "main.6755a7ff.js.map": "/enauda/static/js/main.6755a7ff.js.map"
+    "main.2e5ff66d.js.map": "/enauda/static/js/main.2e5ff66d.js.map"
   },
   "entrypoints": [
-    "static/js/main.6755a7ff.js"
+    "static/js/main.2e5ff66d.js"
   ]
 }
