@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/enauda/static/js/main.0d572f25.js",
+    "main.js": "/enauda/static/js/main.2f47226b.js",
     "static/media/back.png": "/enauda/static/media/back.e98fb28164aced444f1e.png",
     "static/media/pic4.jpg": "/enauda/static/media/pic4.adec8a93c1cca3a8d10f.jpg",
     "static/media/pic8.jpg": "/enauda/static/media/pic8.eee3d2e6874dacda8da6.jpg",
@@ -8,6 +8,7 @@
     "static/media/pic1.jpg": "/enauda/static/media/pic1.fefca506f98bcc3ab648.jpg",
     "static/media/pic12.jpg": "/enauda/static/media/pic12.a1868272d6fd555633ec.jpg",
     "static/media/pic2.jpg": "/enauda/static/media/pic2.b5bd4fc97c466e11f05a.jpg",
+    "static/media/mob_back.png": "/enauda/static/media/mob_back.85acaa3895e5fcdd97e4.png",
     "static/media/pic11.jpg": "/enauda/static/media/pic11.27831e474ba5cb610517.jpg",
     "static/media/pic7.jpg": "/enauda/static/media/pic7.6ee0871c42c1ab6e76e1.jpg",
     "static/media/pic6.jpg": "/enauda/static/media/pic6.590bf415e4bd1089421f.jpg",
@@ -36,9 +37,9 @@
     "static/media/next_dis.svg": "/enauda/static/media/next_dis.a48dc91056413ab719589b84848fd3cc.svg",
     "static/media/next.svg": "/enauda/static/media/next.1ce988022689f6873c9ee061eafa0e73.svg",
     "static/media/dropdown.svg": "/enauda/static/media/dropdown.0180ddddc9103c97e6b59b39e145ad00.svg",
-    "main.0d572f25.js.map": "/enauda/static/js/main.0d572f25.js.map"
+    "main.2f47226b.js.map": "/enauda/static/js/main.2f47226b.js.map"
   },
   "entrypoints": [
-    "static/js/main.0d572f25.js"
+    "static/js/main.2f47226b.js"
   ]
 }
