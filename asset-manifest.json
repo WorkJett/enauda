@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/enauda/static/js/main.963745bb.js",
+    "main.js": "/enauda/static/js/main.5d6d781c.js",
     "static/media/back.png": "/enauda/static/media/back.e98fb28164aced444f1e.png",
     "static/media/pic4.jpg": "/enauda/static/media/pic4.adec8a93c1cca3a8d10f.jpg",
     "static/media/pic8.jpg": "/enauda/static/media/pic8.eee3d2e6874dacda8da6.jpg",
@@ -49,10 +49,9 @@
     "static/media/next.svg": "/enauda/static/media/next.1ce988022689f6873c9ee061eafa0e73.svg",
     "static/media/mob_done.svg": "/enauda/static/media/mob_done.052240acd7e8f5bbbab5fd7a9e2cc5a1.svg",
     "static/media/mob_plus.svg": "/enauda/static/media/mob_plus.5ce68b6dbd7d3cba5f7e2ba92dbf7302.svg",
-    "static/media/dropdown.svg": "/enauda/static/media/dropdown.0180ddddc9103c97e6b59b39e145ad00.svg",
-    "main.963745bb.js.map": "/enauda/static/js/main.963745bb.js.map"
+    "static/media/dropdown.svg": "/enauda/static/media/dropdown.0180ddddc9103c97e6b59b39e145ad00.svg"
   },
   "entrypoints": [
-    "static/js/main.963745bb.js"
+    "static/js/main.5d6d781c.js"
   ]
 }
