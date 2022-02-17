@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/enauda/static/js/main.04cdcd15.js",
+    "main.js": "/enauda/static/js/main.c9567b0d.js",
     "static/media/back.png": "/enauda/static/media/back.e98fb28164aced444f1e.png",
     "static/media/pic4.jpg": "/enauda/static/media/pic4.adec8a93c1cca3a8d10f.jpg",
     "static/media/pic8.jpg": "/enauda/static/media/pic8.eee3d2e6874dacda8da6.jpg",
@@ -36,6 +36,7 @@
     "static/media/info_btn.svg": "/enauda/static/media/info_btn.a1949d14c61975e740f6173a7e30954e.svg",
     "static/media/back_icon.svg": "/enauda/static/media/back_icon.55dd785c561f0fcac2d7fc166205849f.svg",
     "static/media/arrow_down.svg": "/enauda/static/media/arrow_down.a13dd1c120074b7839c17e8e15661d89.svg",
+    "static/media/reg.svg": "/enauda/static/media/reg.164f2194d36ecd66d1a0b5d5adb34295.svg",
     "index.html": "/enauda/index.html",
     "static/media/tooltip_close.svg": "/enauda/static/media/tooltip_close.1c54e97864d8e07a6167197ea6681e14.svg",
     "static/media/close_black.svg": "/enauda/static/media/close_black.4166450b4216520efd07189667b7a2e8.svg",
@@ -54,6 +55,6 @@
     "static/media/dropdown.svg": "/enauda/static/media/dropdown.0180ddddc9103c97e6b59b39e145ad00.svg"
   },
   "entrypoints": [
-    "static/js/main.04cdcd15.js"
+    "static/js/main.c9567b0d.js"
   ]
 }
